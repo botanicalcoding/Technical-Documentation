@@ -25,7 +25,7 @@ Learn about the usage of variables in JavaScript, including naming conventions a
 Understand the various ways to declare variables in JavaScript, with examples using keywords like `var` and `let`.
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/technical-documentation.git`
+1. Clone the repository: `git clone https://github.com/botanicalcoding/technical-documentation.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contribution
